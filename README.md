@@ -20,3 +20,5 @@ Linha adicionada diretamente no site!
 # Próximos Passos
 ---
 - POO
+:hand:
+Olá:rofl:
